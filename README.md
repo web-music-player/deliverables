@@ -2,7 +2,7 @@
 Repository contenente i **deliverables** da consegnare. Documenti 
 caricati:
 
-- [ ] D1: descrizione progetto
+- [x] D1: descrizione progetto
 - [ ] D2: requisiti
 - [ ] D3: design
 - [ ] D4: API
