@@ -5,5 +5,5 @@ caricati:
 - [x] D1: descrizione progetto
 - [x] D2: requisiti
 - [ ] D3: design
-- [ ] D4: API
+- [x] D4: API
 - [ ] D5: report finale
